@@ -1,0 +1,10 @@
+{
+  "col-white": "#ffffff",
+  "col-black": "#000000",
+  "col-container": "#F8F8F8",
+  "col-primary": "#B58024",
+  "col-secondary": "#E9993C",
+  "col-primary-text": "#3D3D3D",
+  "col-secondary-text": "#B5B5B5",
+  "col-primary-disable": "#B5802440"
+}
